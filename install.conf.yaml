@@ -9,5 +9,8 @@
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
-  - ./scripts/setup_oh_my_posh.bash
+  - 
+    command: bash scripts/setup_oh_my_posh.bash
+    description: Installing Oh My Posh
+    quiet: false
 
