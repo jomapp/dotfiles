@@ -12,5 +12,7 @@
   - 
     command: bash scripts/setup_oh_my_posh.bash
     description: Installing Oh My Posh
+    stdout: true
+    stdin: true
     quiet: false
 
