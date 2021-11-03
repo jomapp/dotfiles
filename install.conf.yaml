@@ -1,10 +1,12 @@
 - defaults:
     link:
+      create: true
       relink: true
 
 - clean: ['~']
 
 - link:
+    ~/.bash:
     ~/.bashrc: 
      force: true
      relink: true
