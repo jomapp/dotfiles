@@ -1,0 +1,1 @@
+alias winitu="cd /mnt/c/Johannes/Dokumente/Studium/ITU/"
