@@ -1,1 +1,6 @@
-alias winitu="cd /mnt/c/Johannes/Dokumente/Studium/ITU/"
+alias windoc="cd /mnt/c/Johannes/Dokumente/"
+alias win="cd /mnt/c/"
+alias ..="cd .."
+alias apt-get="sudo apt-get"
+alias c="clear"
+alias grep="grep --color=auto"
