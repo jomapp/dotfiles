@@ -16,8 +16,11 @@ source ~/.bash/aliases.bash
 # Plugins
 source ~/.bash/plugins.bash
 
+# Functions
+source ~/.shell/functions.sh
+
 # PATH
-export PATH="~/.local/bin/:$PATH"
+export PATH="~/.local/bin/:/usr/local/texlive/2022/bin/x86_64-linux:$PATH"
 
 # If not running interactively, don't do anything
 case $- in
